@@ -2,10 +2,8 @@
 title: "My new post"
 author: "Regina Gutierrez"
 date: "2023-02-22"
-categories: [code, complaining ]
+categories: [code,complaining ]
 image: "image.jpg"
 ---
 
 This is a new post, I am new at this and I have no idea what I'm doing
-
-
