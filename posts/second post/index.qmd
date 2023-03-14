@@ -1,0 +1,8 @@
+---
+title: "Second post"
+author: "Tristan O'Malley"
+date: "2023-01-26"
+categories: [news]
+---
+
+newstuff

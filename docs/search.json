@@ -4,7 +4,21 @@
     "href": "posts/post-with-code/index.html",
     "title": "My new post",
     "section": "",
-    "text": "This is a new post, I am new at this and I have no idea what I’m doing."
+    "text": "This is a new post, I am new at this and I have no idea what I’m doing"
+  },
+  {
+    "objectID": "posts/second post/index.html",
+    "href": "posts/second post/index.html",
+    "title": "Second post",
+    "section": "",
+    "text": "newstuff"
+  },
+  {
+    "objectID": "posts/fourth/index.html",
+    "href": "posts/fourth/index.html",
+    "title": "fourth",
+    "section": "",
+    "text": "something fun"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -18,7 +32,7 @@
     "href": "index.html",
     "title": "cBlog",
     "section": "",
-    "text": "My new post\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 29, 2023\n\n\nRegina Gutierrez\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "fourth\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nthird post\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nMy new post\n\n\n\n\n\n\n\ncode\n\n\ncomplaining\n\n\n\n\n\n\n\n\n\n\n\nFeb 22, 2023\n\n\nRegina Gutierrez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSecond post\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
