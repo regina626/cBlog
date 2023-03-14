@@ -18,21 +18,21 @@
     "href": "posts/fourth/index.html",
     "title": "fourth",
     "section": "",
-    "text": "something fun"
+    "text": "something fun\n\n1+1\n\n[1] 2\n\n\noption-command-i\n\nname <- \"emily\""
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is the first post in a Quarto blog. Welcome! I’m gonna try to add an image of my own!\n\n\n\nLet’s hope this works!\n\n\nSuccess!!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "cBlog",
     "section": "",
-    "text": "fourth\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nthird post\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nMy new post\n\n\n\n\n\n\n\ncode\n\n\ncomplaining\n\n\n\n\n\n\n\n\n\n\n\nFeb 22, 2023\n\n\nRegina Gutierrez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSecond post\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "fourth\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nthird post\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 14, 2023\n\n\nRegina Gutierez\n\n\n\n\n\n\n  \n\n\n\n\nMy new post\n\n\n\n\n\n\n\ncode\n\n\ncomplaining\n\n\n\n\n\n\n\n\n\n\n\nFeb 22, 2023\n\n\nRegina Gutierrez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSecond post\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
