@@ -18,6 +18,6 @@ When creating a project in R studio you want to:
   
   3. Make a folder, give it a name with no          spaces. Be aware that "Create a git            repository" is clicked. 
   
-  4. Click on "Create project"
+  4. Click on "Create project" 
   
   
