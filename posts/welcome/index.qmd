@@ -1,13 +1,12 @@
 ---
 title: "Welcome To My Blog"
 author: "Regina Gutierez"
-date: "2023-03-14"
+date: "2023-01-30"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
-I'm gonna try to add an image of my own!
+This is the first post in a Quarto blog. Welcome! I'm gonna try to add an image of my own!
 
-![Let's hope this works!](img/images.jpg) 
+![Let's hope this works!](img/images.jpg)
 
 Success!!

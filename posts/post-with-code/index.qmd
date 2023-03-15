@@ -1,9 +1,20 @@
 ---
-title: "My new post"
+title: "My tip sheet"
 author: "Regina Gutierrez"
-date: "2023-02-22"
-categories: [code,complaining ]
-image: "image.jpg"
+date: "2023-02-15"
+categories: [tips ]
+image: "img2/tips.png"
 ---
 
-This is a new post, I am new at this and I have no idea what I'm doing
+
+
+**Creating a project** 
+
+When creating a project in R studio you want to: 
+  
+  1. Choose file, make a new project 
+  
+  2. Click "New Directory", then "Quarto             Blog"for project type. 
+  
+  
+  
