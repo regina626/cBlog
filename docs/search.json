@@ -4,7 +4,7 @@
     "href": "posts/post-with-code/index.html",
     "title": "My tip sheet",
     "section": "",
-    "text": "Creating a project"
+    "text": "Creating a project\nWhen creating a project in R studio you want to:\n\nChoose file, make a new project\nClick “New Directory”, then “Quarto Blog”for project type."
   },
   {
     "objectID": "posts/second post/index.html",

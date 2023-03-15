@@ -2,7 +2,7 @@
 title: "My tip sheet"
 author: "Regina Gutierrez"
 date: "2023-02-15"
-categories: [tips ]
+categories: [tips]
 image: "img2/tips.png"
 ---
 
@@ -16,5 +16,8 @@ When creating a project in R studio you want to:
   
   2. Click "New Directory", then "Quarto             Blog"for project type. 
   
+  3. Make a folder, give it a name with no          spaces. Be aware that "Create a git            repository" is clicked. 
+  
+  4. Click on "Create project"
   
   
