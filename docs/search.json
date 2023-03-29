@@ -4,7 +4,7 @@
     "href": "posts/post-with-code/index.html",
     "title": "My tip sheet",
     "section": "",
-    "text": "Creating a project\nWhen creating a project in R studio you want to:\n\nChoose file, make a new project\nClick “New Directory”, then “Quarto Blog”for project type."
+    "text": "Creating a project\nWhen creating a project in R studio you want to:\n\nChoose file, make a new project\nClick “New Directory”, then “Quarto Blog” for project type.\nMake a folder, give it a name with no spaces. Be aware that “Create a git repository” is clicked.\nClick on “Create project”\n\nWrite your own post\nTo write your own post on your blog you need to:"
   },
   {
     "objectID": "posts/second post/index.html",
@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "cBlog",
     "section": "",
-    "text": "My tip sheet\n\n\n\n\n\n\n\ntips\n\n\n\n\n\n\n\n\n\n\n\nFeb 15, 2023\n\n\nRegina Gutierrez\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 30, 2023\n\n\nRegina Gutierez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSecond post\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "QMD post\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 22, 2023\n\n\nRegina Gutierrez\n\n\n\n\n\n\n  \n\n\n\n\nMy tip sheet\n\n\n\n\n\n\n\ntips\n\n\n\n\n\n\n\n\n\n\n\nFeb 15, 2023\n\n\nRegina Gutierrez\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 30, 2023\n\n\nRegina Gutierez\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

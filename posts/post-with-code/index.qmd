@@ -20,6 +20,5 @@ When creating a project in R studio you want to:
 
 **Write your own post**
 
-To write your own post on your blog you need to:
 
-1.  
+  
