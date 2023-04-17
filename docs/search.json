@@ -4,14 +4,14 @@
     "href": "posts/post-with-code/index.html",
     "title": "My tip sheet",
     "section": "",
-    "text": "Creating a project\nWhen creating a project in R studio you want to:\n\nChoose file, make a new project\nClick “New Directory”, then “Quarto Blog” for project type.\nMake a folder, give it a name with no spaces. Be aware that “Create a git repository” is clicked.\nClick on “Create project”\n\nWrite your own post\nTo write your own post on your blog you need to:"
+    "text": "Creating a project\nWhen creating a project in R studio you want to:\n\nChoose file, make a new project\nClick “New Directory”, then “Quarto Blog” for project type.\nMake a folder, give it a name with no spaces. Be aware that “Create a git repository” is clicked.\nClick on “Create project”\n\nWrite your own post"
   },
   {
     "objectID": "posts/second post/index.html",
     "href": "posts/second post/index.html",
-    "title": "Second post",
+    "title": "QMD post",
     "section": "",
-    "text": "newstuff"
+    "text": "Be able to make a new .qmd document: Yes\nBe able to render a .qmd document: Yes\nExplain the difference between the source editor view and visual editor view in Rstudio: Visual editor lets you edit/view the text how it would appear in the website.\nBe able to insert simple markdown plain text (headers, lists, paragraphs), and render the document: Yes\nBe aware of resources to help you learn more about markdown options.\nBe able to insert an R code chunk, and show the output in the rendered document.\n\n\nmacro for quick insert\n\n\nRunning R code chunks in a qmd\n\n\npressing play\ncopy/paste into console\nhighlight then command-enter (mac)\nprecedence issues (first to last)\n\n\nBe aware of R code chunk options, and how to use eval, messages, error, warning, and echo.\nBe able to set code chunk options per chunk, and/or for the whole document. Understand rules for precedence (which options will apply if both are set.)\nWrite inline r code.\nExplain how the rendering environment is different from the Rstudio environment.\nBe aware of more advanced quarto options for html documents, and try some of the options."
   },
   {
     "objectID": "posts/welcome/index.html",
