@@ -5,15 +5,15 @@ date: "2023-02-22"
 categories: [news]
 ---
 
-1.  Be able to make a new .qmd document: Yes
+1.  Be able to make a new .qmd document: **Yes**
 
-2.  Be able to render a .qmd document: Yes
+2.  Be able to render a .qmd document: **Yes**
 
-3.  Explain the difference between the source editor view and visual editor view in Rstudio: Visual editor lets you edit/view the text how it would appear in the website. 
+3.  Explain the difference between the source editor view and visual editor view in Rstudio: **Visual editor lets you edit/view the text how it would appear in the website.**
 
-4.  Be able to insert simple markdown plain text (headers, lists, paragraphs), and render the document: Yes
+4.  Be able to insert simple markdown plain text (headers, lists, paragraphs), and render the document: **Yes**
         
-5.  Be aware of resources to help you learn more about markdown options.
+5.  Be aware of resources to help you learn more about markdown options. **Yes**
 
 6.  Be able to insert an R code chunk, and show the output in the rendered document.
 
